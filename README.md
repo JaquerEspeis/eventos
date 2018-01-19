@@ -2,13 +2,6 @@
 
 Eventos del JáquerEspeis y comunidades amigas.
 
-
-## 20180113
-
-Maperespeis #1, en San José.
-11 am. en Manos en la Masa.
-https://www.facebook.com/maperespeis/photos/a.874886102652589.1073741828.874866632654536/1029066817234516
-
 ## 20180210
 
 Maperespeis #2, en Alajuela.
@@ -18,6 +11,12 @@ Maperespeis #2, en Alajuela.
 * [2017](2017)
 
 ### 2018
+
+#### 20180113
+
+Maperespeis #1, en San José.
+11 am. en Manos en la Masa.
+https://www.facebook.com/maperespeis/photos/a.874886102652589.1073741828.874866632654536/1029066817234516
 
 #### 20180106
 
