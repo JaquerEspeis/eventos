@@ -2,15 +2,19 @@
 
 Eventos del JáquerEspeis y comunidades amigas.
 
-## 20180210
+## 20180405
 
-Maperespeis #2, en Alajuela.
+Almuerzo JáquerEspeis en Árbol de Seda y primera reunión en Protolab.
 
 ## Pasados
 
 * [2017](2017)
 
 ### 2018
+
+### 20180210
+
+Maperespeis #2, en Alajuela.
 
 #### 20180113
 
