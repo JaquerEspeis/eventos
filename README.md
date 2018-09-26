@@ -2,9 +2,11 @@
 
 Eventos del JáquerEspeis y comunidades amigas.
 
-## 20180405
+## 20180929
 
-Almuerzo JáquerEspeis en Árbol de Seda y primera reunión en Protolab.
+Limitaciones en la matemática: los teoremas de incompletitud de Gödel.
+Claudio Víquez de automata.network
+En la Pulgateca de Casa Canibal, Barrio Escalante, San José.
 
 ## Pasados
 
@@ -12,7 +14,17 @@ Almuerzo JáquerEspeis en Árbol de Seda y primera reunión en Protolab.
 
 ### 2018
 
-### 20180210
+#### 20180908
+
+Primera reunión de Creative Commons Costa Rica.
+4 p.m. en Manos en la Masa.
+https://www.youtube.com/watch?v=lFc7x2NLZok
+
+#### 20180405
+
+Almuerzo JáquerEspeis en Árbol de Seda y primera reunión en Protolab.
+
+#### 20180210
 
 Maperespeis #2, en Alajuela.
 
