@@ -18,6 +18,8 @@ En la Pulgateca de Casa Canibal, Barrio Escalante, San José.
 
 #### 20180908
 
+<img src="afiches/20180908-cc.jpeg" alt="Primera Reunión de Creative Commons Costa Rica" width="400"/>
+
 Primera reunión de Creative Commons Costa Rica.
 
 4 p.m. en Manos en la Masa.
