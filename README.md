@@ -10,6 +10,10 @@ Claudio Víquez de automata.network
 
 En la Pulgateca de Casa Canibal, Barrio Escalante, San José.
 
+## 20181019
+
+Fiesta de lanzamiento de Ubuntu 18.10
+
 ## Pasados
 
 * [2017](2017)
