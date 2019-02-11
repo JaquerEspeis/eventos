@@ -4,8 +4,8 @@ Eventos del JáquerEspeis y comunidades amigas.
 
 ## Pasados
 
-* [2018.md](2018)
-* [2017.md](2017)
+* [2018](2018.md)
+* [2017](2017.md)
 
 ## 2019
 
